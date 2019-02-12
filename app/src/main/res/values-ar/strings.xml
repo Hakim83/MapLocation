@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="location_string">أدخل موقع</string>
+    <string name="show_map_string">أعرض خريطة</string>
+    <string name="some_key">حاجة كدة</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_map_string"> show map in french</string>
+    <string name="location_string">Entre le location</string>
+    <string name="some_key">autre..</string>
+</resources>

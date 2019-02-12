@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">MapLocation</string>
+    <string name="show_map_string">Show Map</string>
+    <string name="location_string">Enter location</string>
+    <string name="some_key">default text...</string>
+</resources>
